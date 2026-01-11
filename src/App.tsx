@@ -8,6 +8,7 @@ import Categorias from "./pages/Categorias";
 import Relatorios from "./pages/Relatorios";
 import Metas from "./pages/Metas";
 import Mercado from "./pages/Mercado";
+import Veiculos from "./pages/Veiculos";
 import Perfil from "./pages/Perfil";
 import IA from "./pages/IA";
 import Login from "./pages/Login";
